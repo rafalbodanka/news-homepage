@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap');
+
+.link_hover {
+    @apply cursor-pointer hover:text-primarySoftOrange transform duration-200;
+}
+
+.trending_link_hover {
+    @apply cursor-pointer hover:text-primarySoftRed transform duration-200;
+}
