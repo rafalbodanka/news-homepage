@@ -23,7 +23,7 @@ The challenge concerned building out this news homepage and getting it looking a
 
 ### Links
 
-Solution URL: 
+Solution URL: https://rafalbodanka.github.io/news-homepage/
 
 ## My process
 
